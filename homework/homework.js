@@ -183,8 +183,7 @@ function esPositivo(numero) {
     }
     if(numero === 0){return false}
     
-    
-}
+    }
 
 function agregarSimboloExclamacion(str) {
   // Agrega un símbolo de exclamación al final de la string "str" y devuelve una nueva string
